@@ -1,4 +1,4 @@
 # Atividades_Curso
  Primeiro Repositorio
 
- atividade do curso Aplicações Web com Python
+ atividades do curso Aplicações Web com Python
