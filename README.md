@@ -1,2 +1,4 @@
 # Atividades_Curso
- primeiro repositorio
+ Primeiro Repositorio
+
+ atividade do curso Aplicações Web com Python
